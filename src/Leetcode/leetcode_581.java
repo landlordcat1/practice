@@ -1,5 +1,5 @@
 package Leetcode;
-
+//寻找最长无序子数组
 class leetcode_581 {
     public static void main(String[] arg){
         int[] nums=new int[]{1,4,2,3,5,6};
