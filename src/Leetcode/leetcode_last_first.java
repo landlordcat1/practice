@@ -1,5 +1,5 @@
 package Leetcode;
-
+//二分查找寻找左边界和右边界
 public class leetcode_last_first {
     public static void main(String[] arg){
         int[] a=new int[]{1,2,4,5,2,6};

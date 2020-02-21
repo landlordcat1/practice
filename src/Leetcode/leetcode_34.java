@@ -1,5 +1,5 @@
 package Leetcode;
-
+//二分查找
 public class leetcode_34 {
     public static void main(String[] arg){
         int[] a=new int[]{1,2,3,4,6};
