@@ -30,6 +30,6 @@ public class quickSort {
         a[left]=a[i];//把相遇的位置赋给基准数
         a[i]=base;//把基准数赋给相遇的位置
         sort(a,left,i-1);//排序左半边
-        sort(a,j+1,right);//排序右半边
+        sort(a,i+1,right);//排序右半边
     }
 }
