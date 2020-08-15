@@ -23,7 +23,6 @@ public class test_4 {
                 f2 = f;
             }
             System.out.println(f);
-        }
-        return f;
+        }       return f;
     }
 }
